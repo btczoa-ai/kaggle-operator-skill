@@ -1,0 +1,6 @@
+{
+  "name": "kaggle-operator",
+  "version": "1.0.0",
+  "description": "Operate Kaggle Cloud environments via the kaggle CLI with autonomous self-improvement deployment loop.",
+  "entry": "SKILL.md"
+}
